@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AI Research-to-Knowledge Graph Engine
 
-# Run and deploy your AI Studio app
+An AI-powered research platform that transforms a research topic into structured knowledge.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/50b31ac7-1a06-491a-a184-b60c75b4d4b2
+- Research topic search
+- Web source discovery
+- Article extraction
+- AI-powered summarization
+- Entity extraction
+- Relationship detection
+- Interactive knowledge graph
+- Research timeline
+- Source comparison
+- Contradiction detection
+- Research gap analysis
+- Ask AI about research
+- Saved research projects
+- Export research results
 
-## Run Locally
+## Technology Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- Node.js
+- Express.js
+- Ollama
+- Llama 3.2 3B
+- Web research and content extraction
 
+## How to Run Locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 1. Install dependencies
+
+```bash
+npm install --legacy-peer-deps

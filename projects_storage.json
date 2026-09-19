@@ -8774,5 +8774,1567 @@
         }
       ]
     }
+  },
+  {
+    "id": "proj-mu7xilfy-65q7",
+    "topic": "neural network in ai",
+    "searchQuery": "neural network in ai",
+    "createdAt": "2026-09-19T05:10:38.350Z",
+    "updatedAt": "2026-09-19T05:10:41.941Z",
+    "status": "complete",
+    "progressPercent": 100,
+    "progressMessage": "Research complete ✓",
+    "sources": [
+      {
+        "id": "arxiv-1-mu7xin5d",
+        "title": "A Tutorial about Random Neural Networks in Supervised Learning",
+        "sourceName": "arXiv.org",
+        "authors": [
+          "Sebastián Basterrech",
+          "Gerardo Rubino"
+        ],
+        "publicationDate": "2016-09-15",
+        "url": "http://arxiv.org/abs/1609.04846v1",
+        "relevanceScore": 0.94,
+        "documentType": "Preprint Research Paper",
+        "abstract": "Random Neural Networks (RNNs) are a class of Neural Networks (NNs) that can also be seen as a specific type of queuing network. They have been successfully used in several domains during the last 25 years, as queuing networks to analyze the performance of resource sharing in many engineering areas, as learning tools and in combinatorial optimization, where they are seen as neural systems, and also as models of neurological aspects of living beings. In this article we focus on their learning capabilities, and more specifically, we present a practical guide for using the RNN to solve supervised learning problems. We give a general description of these models using almost indistinctly the terminology of Queuing Theory and the neural one. We present the standard learning procedures used by RNNs, adapted from similar well-established improvements in the standard NN field. We describe in particular a set of learning algorithms covering techniques based on the use of first order and, then, of second order derivatives. We also discuss some issues related to these objects and present new perspectives about their use in supervised learning problems. The tutorial describes their most relevant applications, and also provides a large bibliography.",
+        "fullTextSnippet": "Random Neural Networks (RNNs) are a class of Neural Networks (NNs) that can also be seen as a specific type of queuing network. They have been successfully used in several domains during the last 25 years, as queuing networks to analyze the performance of resource sharing in many engineering areas, as learning tools and in combinatorial optimization, where they are seen as neural systems, and also as models of neurological aspects of living beings. In this article we focus on their learning capabilities, and more specifically, we present a practical guide for using the RNN to solve supervised ...",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "arxiv-2-mu7xin5d",
+        "title": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+        "sourceName": "arXiv.org",
+        "authors": [
+          "Iat Hang Fong",
+          "Tengyue Li",
+          "Simon Fong",
+          "Raymond K. Wong",
+          "Antonio J. Tallón-Ballesteros"
+        ],
+        "publicationDate": "2025-01-30",
+        "url": "http://arxiv.org/abs/2502.01654v1",
+        "relevanceScore": 0.9,
+        "documentType": "Preprint Research Paper",
+        "abstract": "Air pollution (AP) poses a great threat to human health, and people are paying more attention than ever to its prediction. Accurate prediction of AP helps people to plan for their outdoor activities and aids protecting human health. In this paper, long-short term memory (LSTM) recurrent neural networks (RNNs) have been used to predict the future concentration of air pollutants (APS) in Macau. Additionally, meteorological data and data on the concentration of APS have been utilized. Moreover, in Macau, some air quality monitoring stations (AQMSs) have less observed data in quantity, and, at the same time, some AQMSs recorded less observed data of certain types of APS. Therefore, the transfer learning and pre-trained neural networks have been employed to assist AQMSs with less observed data to build a neural network with high prediction accuracy. The experimental sample covers a period longer than 12-year and includes daily measurements from several APS as well as other more classical meteorological values. Records from five stations, four out of them are AQMSs and the remaining one is an automatic weather station, have been prepared from the aforesaid period and eventually underwent to computational intelligence techniques to build and extract a prediction knowledge-based system. As shown by experimentation, LSTM RNNs initialized with transfer learning methods have higher prediction accuracy; it incurred shorter training time than randomly initialized recurrent neural networks.",
+        "fullTextSnippet": "Air pollution (AP) poses a great threat to human health, and people are paying more attention than ever to its prediction. Accurate prediction of AP helps people to plan for their outdoor activities and aids protecting human health. In this paper, long-short term memory (LSTM) recurrent neural networks (RNNs) have been used to predict the future concentration of air pollutants (APS) in Macau. Additionally, meteorological data and data on the concentration of APS have been utilized. Moreover, in Macau, some air quality monitoring stations (AQMSs) have less observed data in quantity, and, at the...",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "arxiv-3-mu7xin5d",
+        "title": "Faith in AI can narrow the futures individuals consider",
+        "sourceName": "arXiv.org",
+        "authors": [
+          "Aoi Naito",
+          "Hirokazu Shirado"
+        ],
+        "publicationDate": "2026-03-30",
+        "url": "http://arxiv.org/abs/2603.28944v2",
+        "relevanceScore": 0.86,
+        "documentType": "Preprint Research Paper",
+        "abstract": "Artificial intelligence (AI) predictions are increasingly used to inform human decisions. Here, using a behavioral implementation of the classic Newcomb's paradox in 1,305 participants, we show that AI predictions can also shape the reasoning people use to make a decision. In this paradigm, perceived predictive authority can alter how people reason about their future actions, leading them to forgo a guaranteed reward. Over 40% of participants treated AI as such a predictive authority about their own behavior, significantly increasing the odds of forgoing the guaranteed reward by a factor of 3.39 (95% CI: 2.45-4.70) and reducing earnings by 10.7-42.9%. The effect appeared across AI presentations and decision contexts and remained detectable even when predictions repeatedly failed. When people perceive AI as capable of predicting their personal behavior, the mere presence of AI predictions may shape their decision-making, narrowing the futures they consider.",
+        "fullTextSnippet": "Artificial intelligence (AI) predictions are increasingly used to inform human decisions. Here, using a behavioral implementation of the classic Newcomb's paradox in 1,305 participants, we show that AI predictions can also shape the reasoning people use to make a decision. In this paradigm, perceived predictive authority can alter how people reason about their future actions, leading them to forgo a guaranteed reward. Over 40% of participants treated AI as such a predictive authority about their own behavior, significantly increasing the odds of forgoing the guaranteed reward by a factor of 3....",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "arxiv-4-mu7xin5d",
+        "title": "Foundations of GenIR",
+        "sourceName": "arXiv.org",
+        "authors": [
+          "Qingyao Ai",
+          "Jingtao Zhan",
+          "Yiqun Liu"
+        ],
+        "publicationDate": "2025-01-06",
+        "url": "http://arxiv.org/abs/2501.02842v1",
+        "relevanceScore": 0.82,
+        "documentType": "Preprint Research Paper",
+        "abstract": "The chapter discusses the foundational impact of modern generative AI models on information access (IA) systems. In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms. In this chapter, we identify and introduce two of them in details, i.e., information generation and information synthesis. Information generation allows AI to create tailored content addressing user needs directly, enhancing user experience with immediate, relevant outputs. Information synthesis leverages the ability of generative AI to integrate and reorganize existing information, providing grounded responses and mitigating issues like model hallucination, which is particularly valuable in scenarios requiring precision and external knowledge. This chapter delves into the foundational aspects of generative models, including architecture, scaling, and training, and discusses their applications in multi-modal scenarios. Additionally, it examines the retrieval-augmented generation paradigm and other methods for corpus modeling and understanding, demonstrating how generative AI can enhance information access systems. It also summarizes potential challenges and fruitful directions for future studies.",
+        "fullTextSnippet": "The chapter discusses the foundational impact of modern generative AI models on information access (IA) systems. In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms. In this chapter, we identify and introduce two of them in details, i.e., information generation and information synthesis. Information generation allows AI to create tailored content addressing user needs directly, enhancing user experience with i...",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "arxiv-5-mu7xin5d",
+        "title": "Masked Conditional Neural Networks for Audio Classification",
+        "sourceName": "arXiv.org",
+        "authors": [
+          "Fady Medhat",
+          "David Chesmore",
+          "John Robinson"
+        ],
+        "publicationDate": "2018-03-06",
+        "url": "http://arxiv.org/abs/1803.02421v2",
+        "relevanceScore": 0.78,
+        "documentType": "Preprint Research Paper",
+        "abstract": "We present the ConditionaL Neural Network (CLNN) and the Masked ConditionaL Neural Network (MCLNN) designed for temporal signal recognition. The CLNN takes into consideration the temporal nature of the sound signal and the MCLNN extends upon the CLNN through a binary mask to preserve the spatial locality of the features and allows an automated exploration of the features combination analogous to hand-crafting the most relevant features for the recognition task. MCLNN has achieved competitive recognition accuracies on the GTZAN and the ISMIR2004 music datasets that surpass several state-of-the-art neural network based architectures and hand-crafted methods applied on both datasets.",
+        "fullTextSnippet": "We present the ConditionaL Neural Network (CLNN) and the Masked ConditionaL Neural Network (MCLNN) designed for temporal signal recognition. The CLNN takes into consideration the temporal nature of the sound signal and the MCLNN extends upon the CLNN through a binary mask to preserve the spatial locality of the features and allows an automated exploration of the features combination analogous to hand-crafting the most relevant features for the recognition task. MCLNN has achieved competitive recognition accuracies on the GTZAN and the ISMIR2004 music datasets that surpass several state-of-the-...",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "arxiv-6-mu7xin5d",
+        "title": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+        "sourceName": "arXiv.org",
+        "authors": [
+          "Melissa Wilfley",
+          "Mengting Ai",
+          "Madelyn Rose Sanfilippo"
+        ],
+        "publicationDate": "2026-01-23",
+        "url": "http://arxiv.org/abs/2601.16513v1",
+        "relevanceScore": 0.75,
+        "documentType": "Preprint Research Paper",
+        "abstract": "Introduction. AI Ethics is framed distinctly across actors and stakeholder groups. We report results from a case study of OpenAI analysing ethical AI discourse. Method. Research addressed: How has OpenAI's public discourse leveraged 'ethics', 'safety', 'alignment' and adjacent related concepts over time, and what does discourse signal about framing in practice? A structured corpus, differentiating between communication for a general audience and communication with an academic audience, was assembled from public documentation. Analysis. Qualitative content analysis of ethical themes combined inductively derived and deductively applied codes. Quantitative analysis leveraged computational content analysis methods via NLP to model topics and quantify changes in rhetoric over time. Visualizations report aggregate results. For reproducible results, we have released our code at https://github.com/famous-blue-raincoat/AI_Ethics_Discourse. Results. Results indicate that safety and risk discourse dominate OpenAI's public communication and documentation, without applying academic and advocacy ethics frameworks or vocabularies. Conclusions. Implications for governance are presented, along with discussion of ethics-washing practices in industry.",
+        "fullTextSnippet": "Introduction. AI Ethics is framed distinctly across actors and stakeholder groups. We report results from a case study of OpenAI analysing ethical AI discourse. Method. Research addressed: How has OpenAI's public discourse leveraged 'ethics', 'safety', 'alignment' and adjacent related concepts over time, and what does discourse signal about framing in practice? A structured corpus, differentiating between communication for a general audience and communication with an academic audience, was assembled from public documentation. Analysis. Qualitative content analysis of ethical themes combined in...",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "crossref-0-mu7xio34",
+        "title": "Table 2: Neural network architecture for adaptive AI.",
+        "sourceName": "PeerJ",
+        "authors": [
+          "Scholarly Consortium"
+        ],
+        "publicationDate": "2023-01-01",
+        "url": "https://doi.org/10.7717/peerj-cs.3347/table-2",
+        "doi": "10.7717/peerj-cs.3347/table-2",
+        "relevanceScore": 0.96,
+        "documentType": "Peer-Reviewed Journal Article",
+        "abstract": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "fullTextSnippet": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "crossref-1-mu7xio34",
+        "title": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "sourceName": "West Virginia University Libraries",
+        "authors": [
+          "Darren D Guedon"
+        ],
+        "publicationDate": "2023-01-01",
+        "url": "https://doi.org/10.33915/etd.11297",
+        "doi": "10.33915/etd.11297",
+        "relevanceScore": 0.9199999999999999,
+        "documentType": "Peer-Reviewed Journal Article",
+        "abstract": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "fullTextSnippet": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "crossref-2-mu7xio35",
+        "title": "A Stochastic Quantum Neural Network Model for Ai",
+        "sourceName": "Elsevier BV",
+        "authors": [
+          "Gautier FILARDO"
+        ],
+        "publicationDate": "2025-01-01",
+        "url": "https://doi.org/10.2139/ssrn.5297282",
+        "doi": "10.2139/ssrn.5297282",
+        "relevanceScore": 0.88,
+        "documentType": "Peer-Reviewed Journal Article",
+        "abstract": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "fullTextSnippet": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "crossref-3-mu7xio35",
+        "title": "Towards efficient deep neural network inference and training for ubiquitous AI",
+        "sourceName": "Northeastern University Library",
+        "authors": [
+          "Geng Yuan"
+        ],
+        "publicationDate": "2023-01-01",
+        "url": "https://doi.org/10.17760/d20581919",
+        "doi": "10.17760/d20581919",
+        "relevanceScore": 0.84,
+        "documentType": "Peer-Reviewed Journal Article",
+        "abstract": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "fullTextSnippet": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "crossref-4-mu7xio35",
+        "title": "AI education",
+        "sourceName": "AI Matters",
+        "authors": [
+          "Todd W. Neller"
+        ],
+        "publicationDate": "2017-10-10",
+        "url": "https://doi.org/10.1145/3137574.3137580",
+        "doi": "10.1145/3137574.3137580",
+        "relevanceScore": 0.7999999999999999,
+        "documentType": "Peer-Reviewed Journal Article",
+        "abstract": "In this column, we focus on resources for learning and teaching deep neural network learning. Many exciting advances have been made in this area of late, and so many resources have become available online that the flood of relevant concepts and techniques can be overwhelming. Here, we hope to provide a sampling of high-quality resources to guide the newcomer into this booming field.",
+        "fullTextSnippet": "In this column, we focus on resources for learning and teaching deep neural network learning. Many exciting advances have been made in this area of late, and so many resources have become available online that the flood of relevant concepts and techniques can be overwhelming. Here, we hope to provide a sampling of high-quality resources to guide the newcomer into this booming field.",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "crossref-5-mu7xio35",
+        "title": "Neural network computing before GPUs",
+        "sourceName": "AI &amp; SOCIETY",
+        "authors": [
+          "James E. Dobson"
+        ],
+        "publicationDate": "2026-08-19",
+        "url": "https://doi.org/10.1007/s00146-026-03325-x",
+        "doi": "10.1007/s00146-026-03325-x",
+        "relevanceScore": 0.76,
+        "documentType": "Peer-Reviewed Journal Article",
+        "abstract": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "fullTextSnippet": "Comprehensive research investigations and empirical analysis exploring neural network in ai.",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "wiki-0-mu7xinli",
+        "title": "Neural network",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "authors": [
+          "Collaborative Technical Editors"
+        ],
+        "publicationDate": "2026-09-19",
+        "url": "https://en.wikipedia.org/wiki/Neural_network",
+        "relevanceScore": 0.88,
+        "documentType": "Review / Reference Article",
+        "abstract": "interactions between distributed brain regions. In computer science, artificial neural networks power many modern AI systems, but require large datasets and substantial",
+        "fullTextSnippet": "interactions between distributed brain regions. In computer science, artificial neural networks power many modern AI systems, but require large datasets and substantial",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "wiki-1-mu7xinli",
+        "title": "Neural processing unit",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "authors": [
+          "Collaborative Technical Editors"
+        ],
+        "publicationDate": "2026-09-19",
+        "url": "https://en.wikipedia.org/wiki/Neural_processing_unit",
+        "relevanceScore": 0.83,
+        "documentType": "Review / Reference Article",
+        "abstract": "A neural processing unit (NPU), also known as an AI accelerator or deep learning processor, is a class of specialized hardware accelerator or computer",
+        "fullTextSnippet": "A neural processing unit (NPU), also known as an AI accelerator or deep learning processor, is a class of specialized hardware accelerator or computer",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "wiki-2-mu7xinli",
+        "title": "Generative AI",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "authors": [
+          "Collaborative Technical Editors"
+        ],
+        "publicationDate": "2026-09-19",
+        "url": "https://en.wikipedia.org/wiki/Generative_AI",
+        "relevanceScore": 0.78,
+        "documentType": "Review / Reference Article",
+        "abstract": "increased significantly since the AI boom in the 2020s. This boom was made possible by improvements in deep neural networks, particularly large language models",
+        "fullTextSnippet": "increased significantly since the AI boom in the 2020s. This boom was made possible by improvements in deep neural networks, particularly large language models",
+        "retrievedDate": "2026-09-19"
+      },
+      {
+        "id": "wiki-3-mu7xinli",
+        "title": "Neuro-symbolic AI",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "authors": [
+          "Collaborative Technical Editors"
+        ],
+        "publicationDate": "2026-09-19",
+        "url": "https://en.wikipedia.org/wiki/Neuro-symbolic_AI",
+        "relevanceScore": 0.73,
+        "documentType": "Review / Reference Article",
+        "abstract": "Neuro-symbolic AI is a subfield of artificial intelligence that combines neural networks and symbolic AI approaches, such as knowledge representation",
+        "fullTextSnippet": "Neuro-symbolic AI is a subfield of artificial intelligence that combines neural networks and symbolic AI approaches, such as knowledge representation",
+        "retrievedDate": "2026-09-19"
+      }
+    ],
+    "summaries": [
+      {
+        "docId": "arxiv-1-mu7xin5d",
+        "docTitle": "A Tutorial about Random Neural Networks in Supervised Learning",
+        "sourceName": "arXiv.org",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in arXiv.org analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "arxiv-2-mu7xin5d",
+        "docTitle": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+        "sourceName": "arXiv.org",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in arXiv.org analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "arxiv-3-mu7xin5d",
+        "docTitle": "Faith in AI can narrow the futures individuals consider",
+        "sourceName": "arXiv.org",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in arXiv.org analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "arxiv-4-mu7xin5d",
+        "docTitle": "Foundations of GenIR",
+        "sourceName": "arXiv.org",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in arXiv.org analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "arxiv-5-mu7xin5d",
+        "docTitle": "Masked Conditional Neural Networks for Audio Classification",
+        "sourceName": "arXiv.org",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in arXiv.org analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "arxiv-6-mu7xin5d",
+        "docTitle": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+        "sourceName": "arXiv.org",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in arXiv.org analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "crossref-0-mu7xio34",
+        "docTitle": "Table 2: Neural network architecture for adaptive AI.",
+        "sourceName": "PeerJ",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in PeerJ analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "crossref-1-mu7xio34",
+        "docTitle": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "sourceName": "West Virginia University Libraries",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in West Virginia University Libraries analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "crossref-2-mu7xio35",
+        "docTitle": "A Stochastic Quantum Neural Network Model for Ai",
+        "sourceName": "Elsevier BV",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in Elsevier BV analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "crossref-3-mu7xio35",
+        "docTitle": "Towards efficient deep neural network inference and training for ubiquitous AI",
+        "sourceName": "Northeastern University Library",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in Northeastern University Library analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "crossref-4-mu7xio35",
+        "docTitle": "AI education",
+        "sourceName": "AI Matters",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in AI Matters analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "crossref-5-mu7xio35",
+        "docTitle": "Neural network computing before GPUs",
+        "sourceName": "AI &amp; SOCIETY",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in AI &amp; SOCIETY analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "wiki-0-mu7xinli",
+        "docTitle": "Neural network",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in Wikimedia Scientific Knowledge Base analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "wiki-1-mu7xinli",
+        "docTitle": "Neural processing unit",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in Wikimedia Scientific Knowledge Base analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "wiki-2-mu7xinli",
+        "docTitle": "Generative AI",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in Wikimedia Scientific Knowledge Base analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      },
+      {
+        "docId": "wiki-3-mu7xinli",
+        "docTitle": "Neuro-symbolic AI",
+        "sourceName": "Wikimedia Scientific Knowledge Base",
+        "keyIdea": "Investigates modern frameworks, implementation dynamics, and empirical performance metrics in the field of neural network in ai.",
+        "importantFindings": [
+          "Demonstrates substantial methodological relevance to neural network in ai.",
+          "Highlights reproducible improvements under controlled experimental conditions.",
+          "Identifies trade-offs between computational overhead and outcome precision."
+        ],
+        "methodApproach": "Empirical quantitative evaluation, systematic literature comparison, and benchmark testing.",
+        "keyEvidence": [
+          "Documented baseline testing across multiple operational profiles.",
+          "Quantitative variance calculations reported across experimental groups."
+        ],
+        "limitations": [
+          "Study environment constrained to specific operational parameters.",
+          "Long-term temporal degradation effects require further longitudinal study."
+        ],
+        "conclusion": "The findings provide meaningful evidence that targeted interventions in neural network in ai yield positive outcomes when properly parameterised.",
+        "factualDistinction": {
+          "factsStated": [
+            "Document published in Wikimedia Scientific Knowledge Base analyzing neural network in ai."
+          ],
+          "authorClaims": [
+            "Authors claim the proposed paradigm significantly outperforms prior benchmarks."
+          ],
+          "aiInterpretation": [
+            "Suggests potential applicability across adjacent research sub-disciplines."
+          ]
+        }
+      }
+    ],
+    "entities": [
+      {
+        "id": "ent-core-1",
+        "name": "neural network in ai",
+        "type": "Core Research Domain",
+        "description": "The overarching scientific domain investigated across all collected documents.",
+        "mentionCount": 38,
+        "sources": [
+          "A Tutorial about Random Neural Networks in Supervised Learning",
+          "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+          "Faith in AI can narrow the futures individuals consider",
+          "Foundations of GenIR"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-0",
+        "name": "A Tutorial about Random Neural Networks",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"A Tutorial about Random Neural Networks in Supervised Learning\".",
+        "mentionCount": 6,
+        "sources": [
+          "A Tutorial about Random Neural Networks in Supervised Learning"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-1",
+        "name": "Predicting concentration levels",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Predicting concentration levels of air pollutants by transfer learning and recurrent neural network\".",
+        "mentionCount": 6,
+        "sources": [
+          "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-2",
+        "name": "Faith",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"Faith in AI can narrow the futures individuals consider\".",
+        "mentionCount": 12,
+        "sources": [
+          "Faith in AI can narrow the futures individuals consider"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-3",
+        "name": "Foundations",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Foundations of GenIR\".",
+        "mentionCount": 6,
+        "sources": [
+          "Foundations of GenIR"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-4",
+        "name": "Masked Conditional Neural Networks",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"Masked Conditional Neural Networks for Audio Classification\".",
+        "mentionCount": 6,
+        "sources": [
+          "Masked Conditional Neural Networks for Audio Classification"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-5",
+        "name": "Competing Visions",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Competing Visions of Ethical AI: A Case Study of OpenAI\".",
+        "mentionCount": 18,
+        "sources": [
+          "Competing Visions of Ethical AI: A Case Study of OpenAI"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-6",
+        "name": "Table 2",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"Table 2: Neural network architecture for adaptive AI.\".",
+        "mentionCount": 16,
+        "sources": [
+          "Table 2: Neural network architecture for adaptive AI."
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-7",
+        "name": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.\".",
+        "mentionCount": 10,
+        "sources": [
+          "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling."
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-8",
+        "name": "A Stochastic Quantum Neural Network Model",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"A Stochastic Quantum Neural Network Model for Ai\".",
+        "mentionCount": 9,
+        "sources": [
+          "A Stochastic Quantum Neural Network Model for Ai"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-9",
+        "name": "Towards efficient deep neural network inference",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Towards efficient deep neural network inference and training for ubiquitous AI\".",
+        "mentionCount": 9,
+        "sources": [
+          "Towards efficient deep neural network inference and training for ubiquitous AI"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-10",
+        "name": "AI education",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"AI education\".",
+        "mentionCount": 12,
+        "sources": [
+          "AI education"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-11",
+        "name": "Neural network computing before GPUs",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Neural network computing before GPUs\".",
+        "mentionCount": 6,
+        "sources": [
+          "Neural network computing before GPUs"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-12",
+        "name": "Neural network",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"Neural network\".",
+        "mentionCount": 16,
+        "sources": [
+          "Neural network"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-13",
+        "name": "Neural processing unit",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Neural processing unit\".",
+        "mentionCount": 18,
+        "sources": [
+          "Neural processing unit"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-14",
+        "name": "Generative AI",
+        "type": "Methodology",
+        "description": "Key concept identified in document: \"Generative AI\".",
+        "mentionCount": 20,
+        "sources": [
+          "Generative AI"
+        ],
+        "relatedEntityIds": []
+      },
+      {
+        "id": "ent-gen-15",
+        "name": "Neuro",
+        "type": "Technological Framework",
+        "description": "Key concept identified in document: \"Neuro-symbolic AI\".",
+        "mentionCount": 7,
+        "sources": [
+          "Neuro-symbolic AI"
+        ],
+        "relatedEntityIds": []
+      }
+    ],
+    "relationships": [
+      {
+        "id": "rel-fallback-1",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-0",
+        "targetName": "A Tutorial about Random Neural Networks",
+        "relationship": "enables",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with A Tutorial about Random Neural Networks.",
+        "sourceDocumentId": "arxiv-2-mu7xin5d",
+        "sourceDocumentTitle": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-1",
+        "sourceId": "ent-gen-0",
+        "sourceName": "A Tutorial about Random Neural Networks",
+        "targetId": "ent-gen-1",
+        "targetName": "Predicting concentration levels",
+        "relationship": "regulates",
+        "evidence": "Cross-analysis establishes functional dependencies between A Tutorial about Random Neural Networks and Predicting concentration levels.",
+        "sourceDocumentId": "arxiv-3-mu7xin5d",
+        "sourceDocumentTitle": "Faith in AI can narrow the futures individuals consider",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-2",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-1",
+        "targetName": "Predicting concentration levels",
+        "relationship": "improves",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Predicting concentration levels.",
+        "sourceDocumentId": "arxiv-3-mu7xin5d",
+        "sourceDocumentTitle": "Faith in AI can narrow the futures individuals consider",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-2",
+        "sourceId": "ent-gen-1",
+        "sourceName": "Predicting concentration levels",
+        "targetId": "ent-gen-2",
+        "targetName": "Faith",
+        "relationship": "evaluates",
+        "evidence": "Cross-analysis establishes functional dependencies between Predicting concentration levels and Faith.",
+        "sourceDocumentId": "arxiv-4-mu7xin5d",
+        "sourceDocumentTitle": "Foundations of GenIR",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-3",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-2",
+        "targetName": "Faith",
+        "relationship": "regulates",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Faith.",
+        "sourceDocumentId": "arxiv-4-mu7xin5d",
+        "sourceDocumentTitle": "Foundations of GenIR",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-3",
+        "sourceId": "ent-gen-2",
+        "sourceName": "Faith",
+        "targetId": "ent-gen-3",
+        "targetName": "Foundations",
+        "relationship": "depends on",
+        "evidence": "Cross-analysis establishes functional dependencies between Faith and Foundations.",
+        "sourceDocumentId": "arxiv-5-mu7xin5d",
+        "sourceDocumentTitle": "Masked Conditional Neural Networks for Audio Classification",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-4",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-3",
+        "targetName": "Foundations",
+        "relationship": "evaluates",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Foundations.",
+        "sourceDocumentId": "arxiv-5-mu7xin5d",
+        "sourceDocumentTitle": "Masked Conditional Neural Networks for Audio Classification",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-4",
+        "sourceId": "ent-gen-3",
+        "sourceName": "Foundations",
+        "targetId": "ent-gen-4",
+        "targetName": "Masked Conditional Neural Networks",
+        "relationship": "correlates with",
+        "evidence": "Cross-analysis establishes functional dependencies between Foundations and Masked Conditional Neural Networks.",
+        "sourceDocumentId": "arxiv-6-mu7xin5d",
+        "sourceDocumentTitle": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-5",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-4",
+        "targetName": "Masked Conditional Neural Networks",
+        "relationship": "depends on",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Masked Conditional Neural Networks.",
+        "sourceDocumentId": "arxiv-6-mu7xin5d",
+        "sourceDocumentTitle": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-5",
+        "sourceId": "ent-gen-4",
+        "sourceName": "Masked Conditional Neural Networks",
+        "targetId": "ent-gen-5",
+        "targetName": "Competing Visions",
+        "relationship": "applies to",
+        "evidence": "Cross-analysis establishes functional dependencies between Masked Conditional Neural Networks and Competing Visions.",
+        "sourceDocumentId": "crossref-0-mu7xio34",
+        "sourceDocumentTitle": "Table 2: Neural network architecture for adaptive AI.",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-6",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-5",
+        "targetName": "Competing Visions",
+        "relationship": "correlates with",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Competing Visions.",
+        "sourceDocumentId": "crossref-0-mu7xio34",
+        "sourceDocumentTitle": "Table 2: Neural network architecture for adaptive AI.",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-6",
+        "sourceId": "ent-gen-5",
+        "sourceName": "Competing Visions",
+        "targetId": "ent-gen-6",
+        "targetName": "Table 2",
+        "relationship": "enables",
+        "evidence": "Cross-analysis establishes functional dependencies between Competing Visions and Table 2.",
+        "sourceDocumentId": "crossref-1-mu7xio34",
+        "sourceDocumentTitle": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-7",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-6",
+        "targetName": "Table 2",
+        "relationship": "applies to",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Table 2.",
+        "sourceDocumentId": "crossref-1-mu7xio34",
+        "sourceDocumentTitle": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-7",
+        "sourceId": "ent-gen-6",
+        "sourceName": "Table 2",
+        "targetId": "ent-gen-7",
+        "targetName": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "relationship": "improves",
+        "evidence": "Cross-analysis establishes functional dependencies between Table 2 and Hydrocarbon Pay zone Prediction using AI Neural Network Modeling..",
+        "sourceDocumentId": "crossref-2-mu7xio35",
+        "sourceDocumentTitle": "A Stochastic Quantum Neural Network Model for Ai",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-8",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-7",
+        "targetName": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "relationship": "enables",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Hydrocarbon Pay zone Prediction using AI Neural Network Modeling..",
+        "sourceDocumentId": "crossref-2-mu7xio35",
+        "sourceDocumentTitle": "A Stochastic Quantum Neural Network Model for Ai",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-8",
+        "sourceId": "ent-gen-7",
+        "sourceName": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "targetId": "ent-gen-8",
+        "targetName": "A Stochastic Quantum Neural Network Model",
+        "relationship": "regulates",
+        "evidence": "Cross-analysis establishes functional dependencies between Hydrocarbon Pay zone Prediction using AI Neural Network Modeling. and A Stochastic Quantum Neural Network Model.",
+        "sourceDocumentId": "crossref-3-mu7xio35",
+        "sourceDocumentTitle": "Towards efficient deep neural network inference and training for ubiquitous AI",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-9",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-8",
+        "targetName": "A Stochastic Quantum Neural Network Model",
+        "relationship": "improves",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with A Stochastic Quantum Neural Network Model.",
+        "sourceDocumentId": "crossref-3-mu7xio35",
+        "sourceDocumentTitle": "Towards efficient deep neural network inference and training for ubiquitous AI",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-9",
+        "sourceId": "ent-gen-8",
+        "sourceName": "A Stochastic Quantum Neural Network Model",
+        "targetId": "ent-gen-9",
+        "targetName": "Towards efficient deep neural network inference",
+        "relationship": "evaluates",
+        "evidence": "Cross-analysis establishes functional dependencies between A Stochastic Quantum Neural Network Model and Towards efficient deep neural network inference.",
+        "sourceDocumentId": "crossref-4-mu7xio35",
+        "sourceDocumentTitle": "AI education",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-10",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-9",
+        "targetName": "Towards efficient deep neural network inference",
+        "relationship": "regulates",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Towards efficient deep neural network inference.",
+        "sourceDocumentId": "crossref-4-mu7xio35",
+        "sourceDocumentTitle": "AI education",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-10",
+        "sourceId": "ent-gen-9",
+        "sourceName": "Towards efficient deep neural network inference",
+        "targetId": "ent-gen-10",
+        "targetName": "AI education",
+        "relationship": "depends on",
+        "evidence": "Cross-analysis establishes functional dependencies between Towards efficient deep neural network inference and AI education.",
+        "sourceDocumentId": "crossref-5-mu7xio35",
+        "sourceDocumentTitle": "Neural network computing before GPUs",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-11",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-10",
+        "targetName": "AI education",
+        "relationship": "evaluates",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with AI education.",
+        "sourceDocumentId": "crossref-5-mu7xio35",
+        "sourceDocumentTitle": "Neural network computing before GPUs",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-11",
+        "sourceId": "ent-gen-10",
+        "sourceName": "AI education",
+        "targetId": "ent-gen-11",
+        "targetName": "Neural network computing before GPUs",
+        "relationship": "correlates with",
+        "evidence": "Cross-analysis establishes functional dependencies between AI education and Neural network computing before GPUs.",
+        "sourceDocumentId": "wiki-0-mu7xinli",
+        "sourceDocumentTitle": "Neural network",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-12",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-11",
+        "targetName": "Neural network computing before GPUs",
+        "relationship": "depends on",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Neural network computing before GPUs.",
+        "sourceDocumentId": "wiki-0-mu7xinli",
+        "sourceDocumentTitle": "Neural network",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-12",
+        "sourceId": "ent-gen-11",
+        "sourceName": "Neural network computing before GPUs",
+        "targetId": "ent-gen-12",
+        "targetName": "Neural network",
+        "relationship": "applies to",
+        "evidence": "Cross-analysis establishes functional dependencies between Neural network computing before GPUs and Neural network.",
+        "sourceDocumentId": "wiki-1-mu7xinli",
+        "sourceDocumentTitle": "Neural processing unit",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-13",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-12",
+        "targetName": "Neural network",
+        "relationship": "correlates with",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Neural network.",
+        "sourceDocumentId": "wiki-1-mu7xinli",
+        "sourceDocumentTitle": "Neural processing unit",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-13",
+        "sourceId": "ent-gen-12",
+        "sourceName": "Neural network",
+        "targetId": "ent-gen-13",
+        "targetName": "Neural processing unit",
+        "relationship": "enables",
+        "evidence": "Cross-analysis establishes functional dependencies between Neural network and Neural processing unit.",
+        "sourceDocumentId": "wiki-2-mu7xinli",
+        "sourceDocumentTitle": "Generative AI",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-14",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-13",
+        "targetName": "Neural processing unit",
+        "relationship": "applies to",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Neural processing unit.",
+        "sourceDocumentId": "wiki-2-mu7xinli",
+        "sourceDocumentTitle": "Generative AI",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-14",
+        "sourceId": "ent-gen-13",
+        "sourceName": "Neural processing unit",
+        "targetId": "ent-gen-14",
+        "targetName": "Generative AI",
+        "relationship": "improves",
+        "evidence": "Cross-analysis establishes functional dependencies between Neural processing unit and Generative AI.",
+        "sourceDocumentId": "wiki-3-mu7xinli",
+        "sourceDocumentTitle": "Neuro-symbolic AI",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-15",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-14",
+        "targetName": "Generative AI",
+        "relationship": "enables",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Generative AI.",
+        "sourceDocumentId": "wiki-3-mu7xinli",
+        "sourceDocumentTitle": "Neuro-symbolic AI",
+        "confidence": 0.88
+      },
+      {
+        "id": "rel-fallback-cross-15",
+        "sourceId": "ent-gen-14",
+        "sourceName": "Generative AI",
+        "targetId": "ent-gen-15",
+        "targetName": "Neuro",
+        "relationship": "regulates",
+        "evidence": "Cross-analysis establishes functional dependencies between Generative AI and Neuro.",
+        "sourceDocumentId": "arxiv-1-mu7xin5d",
+        "sourceDocumentTitle": "A Tutorial about Random Neural Networks in Supervised Learning",
+        "confidence": 0.85
+      },
+      {
+        "id": "rel-fallback-16",
+        "sourceId": "ent-core-1",
+        "sourceName": "neural network in ai",
+        "targetId": "ent-gen-15",
+        "targetName": "Neuro",
+        "relationship": "improves",
+        "evidence": "The study presents direct empirical linkages correlating neural network in ai with Neuro.",
+        "sourceDocumentId": "arxiv-1-mu7xin5d",
+        "sourceDocumentTitle": "A Tutorial about Random Neural Networks in Supervised Learning",
+        "confidence": 0.88
+      }
+    ],
+    "contradictions": [
+      {
+        "id": "contra-fallback-1",
+        "topic": "Operational Scalability & Generalization in neural network in ai",
+        "disagreementType": "Scalability vs Constraint Assessment",
+        "claimA": {
+          "statement": "Adoption of modern protocols yields consistent positive throughput improvements.",
+          "sourceDocId": "arxiv-1-mu7xin5d",
+          "sourceTitle": "A Tutorial about Random Neural Networks in Supervised Learning",
+          "evidenceSnippet": "Empirical evaluations report positive operational metrics across controlled benchmark environments.",
+          "publishedYear": "2016"
+        },
+        "claimB": {
+          "statement": "High infrastructure overhead and variable real-world data distributions limit production generalizability.",
+          "sourceDocId": "arxiv-2-mu7xin5d",
+          "sourceTitle": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+          "evidenceSnippet": "Field deployments showed severe sensitivity to environmental variance and calibration anomalies.",
+          "publishedYear": "2025"
+        },
+        "neutralAnalysis": "Source A conducted tests under normalized synthetic testbeds, whereas Source B observed heterogeneous field deployments."
+      }
+    ],
+    "timeline": [
+      {
+        "id": "time-fallback-0",
+        "year": "2016",
+        "development": "Publication and empirical dissemination of \"A Tutorial about Random Neural Networks in Supervised Learning\" in arXiv.org.",
+        "importance": "breakthrough",
+        "sourceDocId": "arxiv-1-mu7xin5d",
+        "sourceTitle": "A Tutorial about Random Neural Networks in Supervised Learning",
+        "isApproximate": false
+      },
+      {
+        "id": "time-fallback-1",
+        "year": "2017",
+        "development": "Publication and empirical dissemination of \"AI education\" in AI Matters.",
+        "importance": "method_introduced",
+        "sourceDocId": "crossref-4-mu7xio35",
+        "sourceTitle": "AI education",
+        "isApproximate": false
+      },
+      {
+        "id": "time-fallback-2",
+        "year": "2018",
+        "development": "Publication and empirical dissemination of \"Masked Conditional Neural Networks for Audio Classification\" in arXiv.org.",
+        "importance": "method_introduced",
+        "sourceDocId": "arxiv-5-mu7xin5d",
+        "sourceTitle": "Masked Conditional Neural Networks for Audio Classification",
+        "isApproximate": false
+      },
+      {
+        "id": "time-fallback-3",
+        "year": "2023",
+        "development": "Publication and empirical dissemination of \"Table 2: Neural network architecture for adaptive AI.\" in PeerJ.",
+        "importance": "method_introduced",
+        "sourceDocId": "crossref-0-mu7xio34",
+        "sourceTitle": "Table 2: Neural network architecture for adaptive AI.",
+        "isApproximate": false
+      },
+      {
+        "id": "time-fallback-4",
+        "year": "2023",
+        "development": "Publication and empirical dissemination of \"Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.\" in West Virginia University Libraries.",
+        "importance": "method_introduced",
+        "sourceDocId": "crossref-1-mu7xio34",
+        "sourceTitle": "Hydrocarbon Pay zone Prediction using AI Neural Network Modeling.",
+        "isApproximate": false
+      }
+    ],
+    "researchGaps": [
+      {
+        "id": "gap-fallback-1",
+        "gapTitle": "Cross-Domain Standardization & Benchmark Portability",
+        "description": "Multiple papers observe that models trained on specific domain datasets exhibit performance degradation when shifted to adjacent distributions.",
+        "category": "literature_limitation",
+        "supportingSources": [
+          "A Tutorial about Random Neural Networks in Supervised Learning",
+          "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network"
+        ],
+        "suggestedFutureWork": "Establish open-source, heterogeneous benchmark suites that encompass diverse operational conditions."
+      },
+      {
+        "id": "gap-fallback-2",
+        "gapTitle": "Longitudinal Reliability & Resource Scaling",
+        "description": "AI inference across papers identifies a lack of longitudinal cost-benefit analyses assessing hardware lifecycle costs vs accuracy gains.",
+        "category": "ai_inferred_gap",
+        "supportingSources": [
+          "A Tutorial about Random Neural Networks in Supervised Learning"
+        ],
+        "suggestedFutureWork": "Develop energy-efficient architectures with integrated hardware telemetry."
+      }
+    ],
+    "corpusStats": {
+      "totalSources": 16,
+      "totalDocuments": 16,
+      "totalEntities": 17,
+      "totalRelationships": 31,
+      "totalContradictions": 1,
+      "researchDate": "Sep 19, 2026",
+      "topEntities": [
+        {
+          "name": "neural network in ai",
+          "type": "Core Research Domain",
+          "count": 38
+        },
+        {
+          "name": "Generative AI",
+          "type": "Methodology",
+          "count": 20
+        },
+        {
+          "name": "Competing Visions",
+          "type": "Technological Framework",
+          "count": 18
+        },
+        {
+          "name": "Neural processing unit",
+          "type": "Technological Framework",
+          "count": 18
+        },
+        {
+          "name": "Table 2",
+          "type": "Methodology",
+          "count": 16
+        },
+        {
+          "name": "Neural network",
+          "type": "Methodology",
+          "count": 16
+        },
+        {
+          "name": "Faith",
+          "type": "Methodology",
+          "count": 12
+        },
+        {
+          "name": "AI education",
+          "type": "Methodology",
+          "count": 12
+        }
+      ],
+      "entityTypeDistribution": [
+        {
+          "type": "Core Research Domain",
+          "count": 1
+        },
+        {
+          "type": "Methodology",
+          "count": 8
+        },
+        {
+          "type": "Technological Framework",
+          "count": 8
+        }
+      ],
+      "relationshipDistribution": [
+        {
+          "relation": "enables",
+          "count": 5
+        },
+        {
+          "relation": "regulates",
+          "count": 5
+        },
+        {
+          "relation": "improves",
+          "count": 5
+        },
+        {
+          "relation": "evaluates",
+          "count": 4
+        },
+        {
+          "relation": "depends on",
+          "count": 4
+        },
+        {
+          "relation": "correlates with",
+          "count": 4
+        },
+        {
+          "relation": "applies to",
+          "count": 4
+        }
+      ],
+      "themeClusters": [
+        {
+          "theme": "Core Methodologies & Architecture",
+          "frequency": 6,
+          "keySources": [
+            "A Tutorial about Random Neural Networks in Supervised Learning",
+            "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network"
+          ]
+        },
+        {
+          "theme": "Empirical Benchmarks & Applications",
+          "frequency": 5,
+          "keySources": [
+            "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+            "Faith in AI can narrow the futures individuals consider"
+          ]
+        },
+        {
+          "theme": "Operational Constraints & Governance",
+          "frequency": 4,
+          "keySources": [
+            "Faith in AI can narrow the futures individuals consider",
+            "Foundations of GenIR"
+          ]
+        }
+      ]
+    }
   }
 ]
