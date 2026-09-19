@@ -1,0 +1,6 @@
+{
+  "name": "AI Research-to-Knowledge Graph Engine",
+  "description": "Autonomous multi-stage AI research pipeline that discovers literature on any topic, extracts entities, maps relationships in an interactive D3 knowledge graph, detects contradictions, builds timelines, and performs corpus QA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
